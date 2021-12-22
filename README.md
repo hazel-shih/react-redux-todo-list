@@ -1,7 +1,7 @@
 # react-redux-todo-list
 ### 一個使用 Redux 來管理狀態且具備 CRUD 功能的 Todo List
 
-![Redux todo list demo](https://i.imgur.com/IvCWpjK.gif)
+![Todo](https://i.imgur.com/IvCWpjK.gif)
 
 [Demo 請點我 🙆‍♀️](https://hazel-shih.github.io/react-redux-todo-list/)
 ### 功能
